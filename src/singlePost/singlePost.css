@@ -1,0 +1,10 @@
+.singlePostDescription::first-letter{
+   font-size:40px;
+   font-weight: bold;
+   margin-left: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.singPostTile{
+    font-family:'Times New Roman', Times, serif;
+}

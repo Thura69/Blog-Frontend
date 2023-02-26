@@ -1,0 +1,7 @@
+.menu_side_bar.active{
+    transform:translateX(-100%);
+    transition: all 0.6s linear;
+}
+.wrapper.active{
+ display: none;
+}
